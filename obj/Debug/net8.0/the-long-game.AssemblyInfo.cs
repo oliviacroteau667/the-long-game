@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("the-long-game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ab6382619bf114cc81b1c6b26c5e2e4bc8aab881")]
 [assembly: System.Reflection.AssemblyProductAttribute("the-long-game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("the-long-game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
