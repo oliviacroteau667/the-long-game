@@ -1,0 +1,14 @@
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\bin\Debug\net8.0\the-long-game.exe
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\bin\Debug\net8.0\the-long-game.deps.json
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\bin\Debug\net8.0\the-long-game.runtimeconfig.json
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\bin\Debug\net8.0\the-long-game.dll
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\bin\Debug\net8.0\the-long-game.pdb
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.AssemblyInfoInputs.cache
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.AssemblyInfo.cs
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.csproj.CoreCompileInputs.cache
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.dll
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\refint\the-long-game.dll
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.pdb
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\the-long-game.genruntimeconfig.cache
+C:\Users\Olivia Croteau\source\repos\the-long-game\the-long-game\obj\Debug\net8.0\ref\the-long-game.dll
