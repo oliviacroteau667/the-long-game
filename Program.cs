@@ -12,10 +12,7 @@ namespace the_long_game
             string userName = Console.ReadLine();
 
             string docPath = @$"userFiles\{userName}.txt"; //path to this user's file
-            int lastScore = int.Parse(File.ReadAllLines(docPath).Last()); //get most recent score
-            //int playerScore = 0;
-            int newScore = KeyCount(lastScore);
-
+            
             if (!File.Exists(docPath)) //if this userName has NOT already been entered
             {
                 Directory.CreateDirectory("userFiles"); //create if directory does not already exist
@@ -28,10 +25,15 @@ namespace the_long_game
                 }
             }
 
+            int lastScore = int.Parse(File.ReadAllLines(docPath).Last()); //get most recent score
+            //int playerScore = 0;
+            int newScore = KeyCount(lastScore);
+
+
             using (StreamWriter streamWriter = new StreamWriter(docPath, true))
             {
-                //playerScore = newScore + lastScore;
-                streamWriter.WriteLine(lastScore); //update score
+                //playerScore = newScore;
+                streamWriter.WriteLine(newScore); //update score
             }
         }
 
